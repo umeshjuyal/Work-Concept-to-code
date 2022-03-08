@@ -1,0 +1,29 @@
+[{
+    "_id": {
+      "$oid": "6225f4057e6f961082ce98f2"
+    },
+    "firstName": "Umesh",
+    "lastName": "Juyal",
+    "userName": "umesh@123",
+    "email": "umesh@gmail.com",
+    "password": "asdfg123",
+    "isAdmin": true
+  },{
+    "_id": {
+      "$oid": "6225f4057e6f961082ce98f3"
+    },
+    "firstName": "Amol",
+    "lastName": "Narang",
+    "userName": "amol@123",
+    "email": "amol@gmail.com",
+    "password": "asdfg123"
+  },{
+    "_id": {
+      "$oid": "6225f4057e6f961082ce98f4"
+    },
+    "firstName": "Pragya",
+    "lastName": "Mishra",
+    "userName": "pragya@123",
+    "email": "pragya@gmail.com",
+    "password": "asdfg123"
+  }]
